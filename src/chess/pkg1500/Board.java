@@ -8,7 +8,7 @@ class Board {
         char[][] board = createBoard();
         boolean whiteToMove = true;
 
-        int[] bestMove = Search.findBestMoveDepth2(board, whiteToMove);
+        int[] bestMove = Search.findBestMove(board, false, 5);
 
         if (bestMove != null) {
             System.out.println("Best move:");
