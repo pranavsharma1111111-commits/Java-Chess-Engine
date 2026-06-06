@@ -1,0 +1,25 @@
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2026.05.31"]
+[Round "?"]
+[White "william-davies-evans-BOT"]
+[Black "Jake1921"]
+[Result "0-1"]
+[TimeControl "?"]
+[WhiteElo "1850"]
+[BlackElo "1228"]
+[Termination "Jake1921 won by checkmate"]
+[ECO "B00"]
+[EndDate "2026.05.31"]
+[Link "https://www.chess.com/game/computer/1454102932?move=0"]
+
+1. e4 a6 2. d4 b6 3. Nc3 c6 4. Bf4 d6 5. Nf3 e6 6. Be2 f6 7. O-O g6 8. Be3 h6
+9. Qe1 a5 10. h3 b5 11. a4 bxa4 12. d5 cxd5 13. exd5 exd5 14. Bb5+ Kf7 15. Nxd5
+Bb7 16. Bb6 Qc8 17. Nc7 Bxf3 18. Be8+ Kg7 19. Ne6+ Kh7 20. Nxf8+ Kg7 21. Qe6
+Qb7 22. Qxd6 Bxg2 23. Nxg6 Bxh3 24. f3 Na6 25. Bd8 Bxf1 26. Kxf1 Qxf3+ 27. Kg1
+Qe3+ 28. Kg2 Qxe8 29. Nxh8 Qxd8 30. Qxd8 Rxd8 31. Rxa4 Kxh8 32. Rxa5 Nb8 33.
+Kf3 Nc6 34. Rc5 Nge7 35. Ke3 f5 36. Kf2 h5 37. Rc3 f4 38. Rh3 Rd5 39. Kf3 Ng6
+40. Kf2 h4 41. Ke2 Nb8 42. c4 Rd4 43. c5 Nd7 44. c6 Nb6 45. c7 Nc8 46. Rc3 Ne5
+47. Rh3 f3+ 48. Rxf3 Nxf3 49. Kxf3 Rc4 50. b3 Rxc7 51. Kg4 h3 52. b4 h2 53. Kf3
+h1=Q+ 54. Kg3 Rf7 55. b5 Na7 56. Kg4 Nxb5 57. Kg5 Na7 58. Kg6 Rf4 59. Kg5 Rf3
+60. Kg4 Qg2+ 61. Kh5 Rh3# 0-1
