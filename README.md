@@ -1,6 +1,6 @@
 # Java Chess Engine ♟️
 
-A chess engine I built from scratch in Java that can beat Chess.com's **1850-rated bot**. This started as a curiosity project — I wanted to understand how chess engines actually think. Ended up being one of the most challenging and rewarding things I've built.
+A chess engine I built from scratch in Java. This started as a curiosity project — I wanted to understand how chess engines actually think. Ended up being one of the most challenging and rewarding things I've built.
 
 ---
 
@@ -31,16 +31,6 @@ At each position, the engine generates all legal moves, plays them out mentally,
 Right now the engine evaluates positions primarily by material count (standard piece values) with some positional adjustments for knights. Simple, but enough to play at 1850 strength.
 
 ---
-
-## Strength
-
-| Opponent | Result |
-|---|---|
-| Chess.com 1200 bot | ✅ Wins consistently |
-| Chess.com 1500 bot | ✅ Wins consistently |
-| Chess.com 1850 bot | ✅ Wins |
-
-Search goes up to **depth 6**, taking roughly 8–10 seconds per move at that depth. Not lightning fast, but it thinks seriously.
 
 ### Proof — vs 1850 bot (31 May 2026)
 
